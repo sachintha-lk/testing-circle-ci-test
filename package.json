@@ -1,0 +1,18 @@
+{
+  "name": "cricle-ci-coding-train",
+  "version": "1.0.0",
+  "description": "Testing stuff with circle ci",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing",
+    "test"
+  ],
+  "author": "sachintha",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
