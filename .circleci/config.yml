@@ -7,7 +7,7 @@ jobs:
   build:
     docker:
       # specify the version you desire here
-      - image: circleci/node:18.13.0
+      - image: circleci/node:18.13
 
     steps:
       - checkout
